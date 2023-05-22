@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-<img src=".github/capsula1.png" alt="Demonstração do projeto"/>
+<img src=".github/capsula11.png" alt="Demonstração do projeto"/>
 </p> 
 
 <p align="center">
-<img src=".github/capsula2.png" alt="Demonstração do projeto"/>
+<img src=".github/capsula22.png" alt="Demonstração do projeto"/>
 </p> 
 
 ## 🚀 Technologies 
